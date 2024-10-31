@@ -1,4 +1,4 @@
-package main
+package post05
 
 import (
 	"fmt"
